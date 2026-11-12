@@ -1,0 +1,6 @@
+product_id,name,category,price,quantity,reorder_level,max_stock
+P001,Basmati Rice 5kg,Groceries,650,40,15,100
+P002,Toothpaste 150g,Personal Care,95,8,10,60
+P003,LED Bulb 9W,Electricals,120,25,10,50
+P004,Notebook A4,Stationery,60,5,20,120
+P005,Detergent 1kg,Household,210,30,12,80
